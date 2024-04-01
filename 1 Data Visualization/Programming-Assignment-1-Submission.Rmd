@@ -26,9 +26,10 @@ link-citations: yes
 **Instructions**
 
 1.  Take the data from the [GISTEMP](http://data.giss.nasa.gov/gistemp/)[^1] site, specifically the data from "*Table Data: Global and Hemispheric Monthly Means and Zonal Annual Means.*" Alternatively you can use any data that you would like to explore instead.
-2.  Parse the data to a suitable format for the tools that you are using – we have provided two files (in JS, TXT, and CSV formats) that contain the data used to make the visualizations here, which is a subset of the data on the GISTEMP site.
-3.  Visualize the data in any meaningful way you wish, keeping in mind the requirements of the [Programming Assignment 1 Rubric](https://www.coursera.org/learn/datavisualization/supplement/3fm6e/programming-assignment-1-rubric).
-4.  Click below to download the .zip file for this programming assignment.
+2.  
+3.  Parse the data to a suitable format for the tools that you are using – we have provided two files (in JS, TXT, and CSV formats) that contain the data used to make the visualizations here, which is a subset of the data on the GISTEMP site.
+4.  Visualize the data in any meaningful way you wish, keeping in mind the requirements of the [Programming Assignment 1 Rubric](https://www.coursera.org/learn/datavisualization/supplement/3fm6e/programming-assignment-1-rubric).
+5.  Click below to download the .zip file for this programming assignment.
 
 [^1]: **GISS Surface Temperature Analysis (GISTEMP)** provides the graphs and tables are updated around the middle of every month using current data files from NOAA GHCN v3 (meteorological stations), ERSST v4 (ocean areas), and SCAR (Antarctic stations), combined as described in our December 2010 publication (Hansen et al. 2010). These updated files incorporate reports for the previous month and also late reports and corrections for earlier months.
 
